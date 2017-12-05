@@ -1,5 +1,5 @@
 FROM docker.io/leo6/baseimage
-##MAINTAINER liuliangliang
+##MAINTAINER liuliangliang 2017-12-05
 
 
 RUN yum install -y bind bind-chroot bind-utils  \
